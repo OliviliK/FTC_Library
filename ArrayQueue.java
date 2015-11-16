@@ -2,6 +2,8 @@ package org.usfirst.FTC5866.library;
 
 /**
  * Created by Olavi Kamppari on 10/7/2015.
+ * 
+ * Added to Github on 11/16/2015 (https://github.com/OliviliK/FTC_Library/edit/master/ArrayQueue.java)
  */
 public class ArrayQueue<AnyType> {
     private AnyType[]   queue;
