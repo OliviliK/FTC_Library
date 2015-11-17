@@ -2,6 +2,8 @@ package org.usfirst.FTC5866.library;
 
 /**
  * Created by Olavi Kamppari on 11/5/2015.
+ * 
+ * Added to Github on 11/16/2015 (https://github.com/OliviliK/FTC_Library/edit/master/Bno055.java)
  */
 
 import android.util.Log;
