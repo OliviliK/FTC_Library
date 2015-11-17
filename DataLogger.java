@@ -2,6 +2,8 @@ package org.usfirst.FTC5866.library;
 
 /**
  * Created by Olavi Kamppari on 9/9/2015.
+ * 
+ * Added to Github on 11/16/2015 (https://github.com/OliviliK/FTC_Library/blob/master/DataLogger.java)
  */
 import java.io.File;
 import java.io.FileWriter;
